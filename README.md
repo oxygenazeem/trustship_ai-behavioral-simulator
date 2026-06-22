@@ -2,6 +2,8 @@
 
 Trustship is an interactive, multi-agent simulation sandbox built using Python and Streamlit. The application orchestrates multiple autonomous AI personalities trapped in localized crisis scenarios. Using a turn-based execution loop, agents negotiate, form alliances, and collapse under psychological pressure while the engine calculates their relationship matrices and sanity metrics in real-time.
 
+### [Try simulation now!](https://www.trustship.streamlit.app)
+
 ## Core Features
 
 * **Dynamic Configuration Room:** Customize the entire experiment by adjusting the number of active agents, individual starting archetypes, and hidden agendas.
